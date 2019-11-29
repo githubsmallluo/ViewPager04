@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Wallpaper -->
+    <string name="recommend">推荐</string>
+    <string name="classification">分类</string>
+    <string name="local">本地</string>
+</resources>

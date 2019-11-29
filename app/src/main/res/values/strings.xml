@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewPager04</string>
+    <!-- Wallpaper -->
+    <string name="recommend">Recommend</string>
+    <string name="classification">Classification</string>
+    <string name="local">Local</string>
+</resources>
